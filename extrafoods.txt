@@ -2,3 +2,7 @@ Melon
 Spinach
 papaya
 burger
+Beef
+Chicken
+Fish
+cereal
